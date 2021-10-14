@@ -1,6 +1,6 @@
 # top-10-movies
 
-Top 10 Filmes is simple app that show the most view movies of the month, using all the techniques that i've lean on alura immersion.
+Top 10 Filmes is simple app that show the most view movies of the month, using all the techniques that i've learned on alura immersion.
  
 ## Techs
 - HTML5
